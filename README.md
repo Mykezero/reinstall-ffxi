@@ -1,6 +1,6 @@
 # Fresh Install of FFXI
 
-**Note:** If you're installing FFXI on an external hard drive, you'll need to edit the ffxi-registry-keys.reg file to point to that harddrive. 
+**Optional:** If you're installing FFXI on an external hard drive, you'll need to edit the ffxi-registry-keys.reg file to point to that harddrive. 
 
 #### ffxi-registry-keys.reg
 ```

@@ -25,7 +25,7 @@
 Move the register-dlls.bat file to the SquareEnix folder. 
 
 ```
-mv register-dlls.bat "C:\Program Files (x86)\PlayOnline\SquareEnix"
+mv register-dlls.bat "G:\GAMES\FFXI\SquareEnix"
 ```
 
 ![image](https://user-images.githubusercontent.com/5349608/36842744-a18d8340-1d1a-11e8-8095-2b07e57773ed.png)
@@ -33,7 +33,7 @@ mv register-dlls.bat "C:\Program Files (x86)\PlayOnline\SquareEnix"
 5. Navigate to the Square Enix Folder
 
 ```
-cd "C:\Program Files (x86)\PlayOnline\SquareEnix"
+cd "G:\GAMES\FFXI\SquareEnix"
 ```
 
 6. Run the register-dlls.bat with the command prompt. 

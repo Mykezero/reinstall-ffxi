@@ -1,5 +1,15 @@
 # Fresh Install of FFXI
 
+**Note:** If you're installing FFXI on an external hard drive, you'll need to edit the ffxi-registry-keys.reg file to point to that harddrive. 
+
+#### ffxi-registry-keys.reg
+```
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\PlayOnlineUS\InstallFolder]
+"0001"="E:\\PlayOnline\\SquareEnix\\FINAL FANTASY XI\\"
+"0002"="E:\\PlayOnline\\SquareEnix\\TetraMaster"
+"1000"="E:\\PlayOnline\\SquareEnix\\PlayOnlineViewer"
+```
+
 1. Update your Final Fantasy XI files. 
 
 2. Double click and apply the registry keys to your computer. 

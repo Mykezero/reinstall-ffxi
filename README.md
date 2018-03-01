@@ -38,6 +38,11 @@ cd "G:\GAMES\FFXI\SquareEnix"
 
 6. Run the register-dlls.bat with the command prompt. 
 
+
+```
+register-dlls.bat
+```
+
 ![image](https://user-images.githubusercontent.com/5349608/36842868-12058802-1d1b-11e8-8489-68073098ce21.png)
 
 *You should now be able to launch FFXI and play with the newly installed files*

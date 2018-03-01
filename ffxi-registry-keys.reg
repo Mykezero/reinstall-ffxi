@@ -3,9 +3,9 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\PlayOnlineUS]
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\PlayOnlineUS\InstallFolder]
-"0001"="D:\\PlayOnline\\SquareEnix\\FINAL FANTASY XI\\"
-"0002"="D:\\PlayOnline\\SquareEnix\\TetraMaster"
-"1000"="D:\\PlayOnline\\SquareEnix\\PlayOnlineViewer"
+"0001"="C:\\PlayOnline\\SquareEnix\\FINAL FANTASY XI\\"
+"0002"="C:\\PlayOnline\\SquareEnix\\TetraMaster"
+"1000"="C:\\PlayOnline\\SquareEnix\\PlayOnlineViewer"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\PlayOnlineUS\SquareEnix]
 
